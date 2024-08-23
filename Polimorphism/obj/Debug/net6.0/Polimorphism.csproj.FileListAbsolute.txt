@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.exe
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.deps.json
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.runtimeconfig.json
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.dll
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.pdb
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.dll
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\refint\Polimorphism.dll
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.pdb
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\İş masası\C#\Polimorphism\Polimorphism\obj\Debug\net6.0\ref\Polimorphism.dll
